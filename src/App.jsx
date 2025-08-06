@@ -10,7 +10,7 @@ function App() {
     <>
      <div style={{ color: 'blue' }}>
         <h1>Welcome to my web application</h1>
-        <h6>2300030098</h6>
+        <h4>2300030098</h4>
       </div>
       
     </>
